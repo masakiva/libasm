@@ -1,0 +1,14 @@
+nasm tuto https://cs.lmu.edu/~ray/notes/nasmtutorial/
+small ref and links https://github.com/Glagan/42-libasm/
+tutorial https://0xax.github.io/asm_3/
+linux syscalls list https://filippo.io/linux-syscall-table/
+macos syscalls list https://opensource.apple.com/source/xnu/xnu-1504.3.12/bsd/kern/syscalls.master
+ref https://wiki.cdot.senecacollege.ca/wiki/X86_64_Register_and_Instruction_Quick_Start
+x64 cheatsheet https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+https://en.wikipedia.org/wiki/X86_calling_conventions
+https://stackoverflow.com/questions/46123505/assembling-with-gcc-causes-weird-relocation-error-with-regards-to-data
+
+hector: 6 videos sur les procedures https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL (utile pour les fonctions bonus lst_remove_if et sort_list)
+
+how computers work! continue from fifth video from 6:30 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+Valentin (README.md): https://github.com/valentinllpz/libasm
