@@ -1,16 +1,13 @@
-		global	_ft_strlen
+		global	ft_strlen
 
 		section	.text
-_ft_strlen:
+ft_strlen:
+		mov		rax, -1
+		dec		rdi
+loop:
 		inc		rdi
-		mov		rax, [rdi]
+		inc		rax
+		mov		r8b, [rdi]
+		cmp		r8b, 0
+		jnz		loop
 		ret
-;		mov		rsi, 0
-;		call	increment
-;		ret
-;increment:
-;		inc		rdi
-;		mov		rax, [rdi]
-;		inc		rsi
-;		cmp		rax, 0
-;		jnz		increment
