@@ -12,3 +12,6 @@ hector: 6 videos sur les procedures https://www.youtube.com/playlist?list=PL0oek
 
 how computers work! continue from fifth video from 6:30 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 Valentin (README.md): https://github.com/valentinllpz/libasm
+https://github.com/valentinllpz/Libasm_Unit_Tests
+https://github.com/lienardale/alien_lasm_tests
+https://github.com/cacharle/libasm_test

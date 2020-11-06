@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int		ft_strlen(char *);
+size_t	ft_strlen(const char *s);
 
 int		main(void)
 {
 	char *f = "fghi";
-	printf("%d\n", ft_strlen(f));
+	printf("%zu\n", ft_strlen(f));
 	return (0);
 }
