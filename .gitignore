@@ -1,7 +1,7 @@
 corr.pdf
 # binary stuff
 *.o
-objects
+objs
 a.out*
 # libraries
 *.a

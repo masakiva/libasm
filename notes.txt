@@ -1,3 +1,5 @@
+https://asmtutor.com/
+
 nasm tuto https://cs.lmu.edu/~ray/notes/nasmtutorial/
 small ref and links https://github.com/Glagan/42-libasm/
 tutorial https://0xax.github.io/asm_3/
